@@ -24,7 +24,7 @@ javac Board.java Solver.java
 
 ### Run the Solver with an Input File:
 ```bash
-java Solver puzzle04.txt
+java Solver puzzle4x4-06.txt
 ```
 
 
