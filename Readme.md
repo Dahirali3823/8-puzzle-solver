@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project solves the **8-Puzzle Problem** using the **A* search algorithm**. The puzzle consists of a 3x3 grid of tiles numbered 1 through 8 and one empty space, represented by 0. The goal is to move the tiles around until the puzzle reaches a goal configuration, using the fewest moves.
+This project solves the **8-Puzzle Problem** using the **A* search algorithm**. The puzzle consists of a nxn grid of tiles numbered 1 through 8 and one empty space, represented by 0. The goal is to move the tiles around until the puzzle reaches a goal configuration, using the fewest moves.
 
 ### Key Features
 - **A* Search Algorithm** to solve the puzzle efficiently.
